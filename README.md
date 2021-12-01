@@ -1,7 +1,10 @@
 # Optimización
 
 Repositorio para las prácticas de la asignatura de Optimización - **1º Año de carrera**
+- Curso 2018-2019
+- Alumno: José Javier Díaz González
 
-## [Gusek](https://github.com/javiidiazglez/Optimizacion/tree/main/Gusek)
+### Listado de prácticas:
+- #### [Gusek](https://github.com/alu0101128894/Optimizacion/tree/main/Gusek)
 
-## [Grafos C++](https://github.com/javiidiazglez/Optimizacion/tree/main/Grafos)
+- #### [Grafos C++](https://github.com/alu0101128894/Optimizacion/tree/main/Grafos)
