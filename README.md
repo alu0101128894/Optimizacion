@@ -1,9 +1,7 @@
-# Optimizacion
+# Optimización
 
-**2º Año de Carrera** - Programacion de Lenguaje C++
+Repositorio para las prácticas de la asignatura de Optimización - **1º Año de carrera**
 
 ## [Gusek](https://github.com/javiidiazglez/Optimizacion/tree/main/Gusek)
-Modelización y resolución de problemas de Programación Lineal con Gusek
 
-## [Grafos](https://github.com/javiidiazglez/Optimizacion/tree/main/Grafos)
-Optimización en Grafos C++.
+## [Grafos C++](https://github.com/javiidiazglez/Optimizacion/tree/main/Grafos)
